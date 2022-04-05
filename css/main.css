@@ -52,6 +52,10 @@ thead{
     color: white;
 }
 
+.colored{
+    background-color: rgba(78, 160, 255, 0.5);
+}
+
 .third{
     width: 50%;
 }
